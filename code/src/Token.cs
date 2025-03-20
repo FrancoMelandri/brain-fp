@@ -2,15 +2,15 @@
 
 namespace BrainFp;
 
-public class Token<T>
-    where T: struct
+public class Token
 {
-    private T _data;
-
-    public Token(T data)
+    public Token(Double data)
     {
-        _data = data;
+        Data = data;
     }
-    
-    public T Data => _data;
+
+    public static Token operator +(Token a, Token b)
+        => new(a.Data + b.Data);
+
+    public Double Data { get; }
 }
