@@ -5,4 +5,8 @@
     <RootNamespace>TinyBrain</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="tiny-fp" Version="2.1.0" />
+  </ItemGroup>
+  
 </Project>
