@@ -1,2 +1,2 @@
-# brain-fp
+# tiny-brain
 

@@ -1,7 +1,7 @@
 ﻿using System;
 using Shouldly;
 
-namespace BrainFp.Test;
+namespace TinyBrain.Test;
 
 public class TokenTests
 {

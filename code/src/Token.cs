@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BrainFp;
+namespace TinyBrain;
 
 public class Token
 {

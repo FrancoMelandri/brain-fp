@@ -4,9 +4,9 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{314C6247-30EA-3492-19B6-DF847E3B326F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brain-fp", "code\src\brain-fp.csproj", "{71ED6FFF-AFD9-C033-F93B-B2229AA9472D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiny-brain", "code\src\tiny-brain.csproj", "{71ED6FFF-AFD9-C033-F93B-B2229AA9472D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brain-fp-test", "code\test\brain-fp-test.csproj", "{7D35C0D9-71F6-3FD2-A267-1537DF414438}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiny-brain-test", "code\test\tiny-brain-test.csproj", "{7D35C0D9-71F6-3FD2-A267-1537DF414438}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{9739F4DD-E1BB-81D0-8137-FF0FCA75CB53}"
 EndProject
