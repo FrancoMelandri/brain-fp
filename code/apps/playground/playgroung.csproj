@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\brain-fp.csproj" />
+    <ProjectReference Include="..\..\src\tiny-brain.csproj" />
   </ItemGroup>
 
 </Project>
